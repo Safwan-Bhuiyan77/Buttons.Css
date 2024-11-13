@@ -1,0 +1,25 @@
+.Rn{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    margin: 5px 525px;
+}
+.ATC{
+    color: black;
+    background-color: chartreuse;
+    font-weight: bold;
+    padding: 14px 40PX;
+    margin: 20px 500px;
+     border-radius: 20px;
+     border: none;
+}
+.SP{
+    color: white;
+   font-weight: bold;
+    background-color: green;
+    padding: 10px 20px;
+    margin: 10px 535px;
+   border: none;
+    border-radius: 5px;
+}
